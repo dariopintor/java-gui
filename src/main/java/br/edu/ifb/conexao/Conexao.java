@@ -19,6 +19,7 @@ public class Conexao {
        try {
            return DriverManager.getConnection(URL);
        } catch (SQLException ex) {
+           System.out.println("Banco não conectado!");
            Logger.getLogger(Conexao.class.getName()).log(Level.SEVERE, null, ex);
        }
        return null;
