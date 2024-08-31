@@ -51,7 +51,7 @@ public class Home extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Tela inicial");
 
-        jPanel2.setBackground(new java.awt.Color(204, 255, 255));
+        jPanel2.setBackground(new java.awt.Color(204, 255, 204));
 
         jLabel1.setFont(new java.awt.Font("Lucida Grande", 0, 24)); // NOI18N
         jLabel1.setText("Telefone");
@@ -136,7 +136,7 @@ public class Home extends javax.swing.JFrame {
         tbTabela.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {"Pedro", "2345-2435", "pedro@email", "18/19/20"},
-                {"Maria", "5465-5535", "maria@email", "Pedro	2345-2435	pedro@email	11/19/90"}
+                {"Maria", "5465-5535", "maria@email", "11/19/90"}
             },
             new String [] {
                 "Nome", "Telefone", "Email", "Nascimento"
@@ -165,7 +165,7 @@ public class Home extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        jPanel4.setBackground(new java.awt.Color(204, 255, 255));
+        jPanel4.setBackground(new java.awt.Color(204, 255, 204));
 
         btExcluir.setFont(new java.awt.Font("Lucida Grande", 0, 24)); // NOI18N
         btExcluir.setText("Excluir");
