@@ -7,10 +7,9 @@ Nesta aula foram desensvolvidas trës telas utilizando o java SWING para constru
 # Tela de login desenvolvida
 ![Imagem 3](Telaagenda.png)
 # Tela de login desenvolvida
-![Imagem 1](Telalogin.png)
-# Tela de registrar usuário
 ![Imagem 2](Telaregistrar.png)
-
+# Tela de registrar usuário
+![Imagem 1](Telalogin.png)
 
 # Aula 13 - Banco de dados com Java - Programação orientada a objetos
 
